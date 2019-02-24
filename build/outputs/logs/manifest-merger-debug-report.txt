@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+data
+INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:26:17-28:42
+	android:host
+		INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:27:19-50
+	android:scheme
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:28:19-40
+manifest
+ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1e415af22123d12bb5c550e1dead4067\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\193912216311e13bcfcd1006b2206128\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a038993f4d2c134c0856bddea080c613\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\309694670418ad8bf7b7b53b4c18daf7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\358da0814f14e38dfd33407ced868355\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\140a1347f1c0c0fbbfe180a76a9338f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\951d9ee50ff6087f126b5f27d4b2d76a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\42304bdf48aa6be21312e70f66bf564c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\26c02abc14828d552414f395e33a6368\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b281f3fe07aee9dc2a20adadefa383f8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\33c36d5e727a7b2f8a138a84c248582b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2e8f1166c6ae4882bed9c1de38e8b495\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\793b107f385b31e6c3054ac9b9bd0d13\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\aa7bd6c900b12fe8aa728ba3452351f0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:3:3-51
+	android:versionName
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:5:3-30
+		INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:4:3-34
+		INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:8:22-76
+application
+ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:10:5-45:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\193912216311e13bcfcd1006b2206128\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\193912216311e13bcfcd1006b2206128\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:13:7-39
+	android:icon
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:12:7-47
+	android:allowBackup
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:11:7-33
+	android:theme
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:14:7-38
+activity#com.amazon.identity.auth.device.workflow.WorkflowActivity
+ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:15:9-30:20
+	android:launchMode
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:17:11-42
+	android:allowTaskReparenting
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:16:11-46
+	android:theme
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:19:11-57
+	android:name
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:18:11-83
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:com.amazon.identity.auth.device.lwaapp+data:scheme:amzn
+ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:20:13-29:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:21:17-68
+	android:name
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:23:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:24:27-75
+activity#com.amazon.identity.auth.device.lwaapp.LoginWithAmazonActivity
+ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:31:9-40:20
+	android:label
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:33:11-43
+	android:configChanges
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:32:11-70
+	android:name
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:34:11-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:36:17-68
+	android:name
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:38:27-74
+activity#com.amazon.identity.auth.device.lwaapp.Main2Activity
+ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:41:9-44:20
+	android:label
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:43:11-55
+	android:name
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml:42:11-40
+uses-sdk
+INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1e415af22123d12bb5c550e1dead4067\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1e415af22123d12bb5c550e1dead4067\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\193912216311e13bcfcd1006b2206128\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\193912216311e13bcfcd1006b2206128\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a038993f4d2c134c0856bddea080c613\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a038993f4d2c134c0856bddea080c613\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\309694670418ad8bf7b7b53b4c18daf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\309694670418ad8bf7b7b53b4c18daf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\358da0814f14e38dfd33407ced868355\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\358da0814f14e38dfd33407ced868355\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\140a1347f1c0c0fbbfe180a76a9338f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\140a1347f1c0c0fbbfe180a76a9338f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\951d9ee50ff6087f126b5f27d4b2d76a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\951d9ee50ff6087f126b5f27d4b2d76a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\42304bdf48aa6be21312e70f66bf564c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\42304bdf48aa6be21312e70f66bf564c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\26c02abc14828d552414f395e33a6368\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\26c02abc14828d552414f395e33a6368\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b281f3fe07aee9dc2a20adadefa383f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b281f3fe07aee9dc2a20adadefa383f8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\33c36d5e727a7b2f8a138a84c248582b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\33c36d5e727a7b2f8a138a84c248582b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2e8f1166c6ae4882bed9c1de38e8b495\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2e8f1166c6ae4882bed9c1de38e8b495\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\793b107f385b31e6c3054ac9b9bd0d13\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\793b107f385b31e6c3054ac9b9bd0d13\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\aa7bd6c900b12fe8aa728ba3452351f0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\kanyo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\aa7bd6c900b12fe8aa728ba3452351f0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kanyo\Desktop\bootcamp\projects\SampleLoginWithAmazonAppForAndroid\src\main\AndroidManifest.xml

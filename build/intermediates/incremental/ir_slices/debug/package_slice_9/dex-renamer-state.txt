@@ -1,0 +1,4 @@
+#Sun Feb 24 09:21:09 MST 2019
+base.0=C\:\\Users\\kanyo\\Desktop\\bootcamp\\projects\\SampleLoginWithAmazonAppForAndroid\\build\\intermediates\\transforms\\dexMerger\\debug\\24
+path.0=classes.dex
+renamed.0=classes.dex
