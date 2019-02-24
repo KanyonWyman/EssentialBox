@@ -38,9 +38,11 @@
                 {
                     "source": "C:\\Users\\kanyo\\Desktop\\bootcamp\\projects\\SampleLoginWithAmazonAppForAndroid\\src\\main\\res\\values\\color.xml",
                     "from": {
-                        "startLines": "-1,-1,-1",
-                        "startColumns": "-1,-1,-1",
-                        "startOffsets": "-1,-1,-1"
+                        "startLines": "-1,4,-1",
+                        "startColumns": "-1,4,-1",
+                        "startOffsets": "-1,135,-1",
+                        "endColumns": "-1,38,-1",
+                        "endOffsets": "-1,169,-1"
                     },
                     "to": {
                         "startLines": "145,161,179",
@@ -115,11 +117,9 @@
                 {
                     "source": "C:\\Users\\kanyo\\Desktop\\bootcamp\\projects\\SampleLoginWithAmazonAppForAndroid\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,7,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,264,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "endColumns": "-1,-1,-1,69,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "endOffsets": "-1,-1,-1,329,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
                         "startLines": "626,627,628,629,630,631,632,633,634,635,636,639,640,641,642",
